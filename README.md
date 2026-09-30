@@ -1,5 +1,9 @@
 # Tugas 1: Eksplorasi dan Analisis Dataset Besar Indonesia
 
+Nama: Aglifah Alfarabi Basri
+NIM: 202310370311255
+Kelas: B
+
 Template untuk Tugas 1 mata kuliah Analisis Big Data. Setelah repository GitHub Classroom dibuat, ubah nama repository menjadi `tugas1-[username_github]`.
 
 ## Milestone
@@ -229,8 +233,8 @@ Buka JupyterLab pada `http://localhost:8888/lab`. Konfigurasi Dockerfile menjala
 
 Isi bagian ini sebelum pengumpulan akhir.
 
-> Alat AI yang digunakan: [nama alat].
+> Alat AI yang digunakan: [Gemini + Antigravity].
 >
-> Bagian yang dibantu: [contoh: penjelasan error Polars atau review dokumentasi].
+> Bagian yang dibantu: [Error solving, bagaimana AI membuat konsep awal dan bagaimana AI menjelaskan kodenya].
 >
-> Verifikasi yang dilakukan: [contoh: menjalankan ulang kode, memeriksa dokumentasi resmi, dan memahami setiap cell].
+> Verifikasi yang dilakukan: [Memahami isi cellnya, memastikan link localhost itu sudah benar dan dapat diakses].

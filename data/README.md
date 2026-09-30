@@ -6,12 +6,21 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Wikipedia Indonesia (idwiki) - 20231101` |
+| Sumber | `HuggingFace (wikimedia/wikipedia)` |
+| Lisensi/ketentuan pakai | `CC BY-SA 4.0` |
+| Ukuran | `> 500 MB, ~700.000 baris (artikel)` |
+| Periode data | `Hingga November 2023` |
+| Unit analisis | `Artikel Wikipedia` |
+
+## Instruksi Unduhan Data
+
+Anda dapat mengunduh dataset menggunakan script python yang disediakan, atau dengan menjalankan perintah berikut untuk mengunduh dataset secara manual:
+
+```bash
+python download_data.py
+```
+Atau menggunakan Hugging Face Datasets API untuk mendownload dan menyimpan format parquet secara langsung di folder `data/raw/`.
 
 ## Tempat Mencari Dataset
 
